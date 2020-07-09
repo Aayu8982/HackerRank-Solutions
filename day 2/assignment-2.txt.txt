@@ -1,0 +1,10 @@
+date 09/07/2020
+
+https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+https://www.hackerrank.com/challenges/bon-appetit/problem
+https://www.hackerrank.com/challenges/sock-merchant/problem
+https://www.hackerrank.com/challenges/drawing-book/problem
+https://www.hackerrank.com/challenges/counting-valleys/problem
+https://www.hackerrank.com/challenges/electronics-shop/problem
+https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+https://www.hackerrank.com/challenges/picking-numbers/problem
